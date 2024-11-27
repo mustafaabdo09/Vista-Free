@@ -1,4 +1,4 @@
-=== Ultra News - Theme ===
+=== Vista News Free - Theme ===
 
 Contributors: automattic
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
