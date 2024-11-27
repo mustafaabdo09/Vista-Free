@@ -66,5 +66,5 @@ For more details, refer to the [GPL-2.0 License](https://opensource.org/licenses
 
 ### Connect with Us
 - **Website:** [vistanews.masterspresses.com](https://vistanews.masterspresses.com/)
-- **Facebook:** [Facebook Page](https://www.facebook.com/mustafaabdo09)
-- **Twitter:** [Twitter Handle](https://x.com/hubwebz)
+- **Facebook:** [Facebook](https://www.facebook.com/mustafaabdo09)
+- **Twitter:** [Twitter](https://x.com/hubwebz)
