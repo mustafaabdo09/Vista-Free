@@ -46,7 +46,7 @@ Check out the full documentation for detailed guides and tutorials: [Documentati
 ---
 
 ## Support
-For help or issues, open a ticket in the [Support Forum](https://your-site.com/support) or email us at **tofa.sasa84@gmail.com**.
+For help or issues, email us at **tofa.sasa84@gmail.com**.
 
 
 ---
