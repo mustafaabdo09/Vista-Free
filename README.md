@@ -9,7 +9,6 @@
 - **Main Slider:** Display your latest posts with a simple, elegant slider.
 - **Custom Widgets:** Includes "Popular Posts" and "Categories" widgets.
 - **Basic Customization:** Change the logo, colors, and add a custom header.
-- **WPBakery Support (Limited):** Edit certain sections with drag-and-drop ease.
 
 > For more advanced features, upgrade to [Vista News Pro](https://www.templatemonster.com/wordpress-themes/vista-news-the-ultimate-wordpress-theme-for-magazines-and-news-websites-466140.html?_gl=1*he3wza*_gcl_au*mtcxotkwmzg0my4xnzmyndg3mdy0*_ga*mtm1oti0nja3lje3mzi0odcwnje.*_ga_ftpyegt5ly*mtczmjy4otayns4xoc4xlje3mzi2odkwnzkuni4wlja.).
 
